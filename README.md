@@ -1,4 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/jenbuzz/walking-dead-characters.png?branch=master)](http://travis-ci.org/jenbuzz/walking-dead-characters)
+[![Coverage Status](https://coveralls.io/repos/github/jenbuzz/walking-dead-characters/badge.svg?branch=master)](https://coveralls.io/github/jenbuzz/walking-dead-characters?branch=master)
 
 # walking-dead-characters
 Get a random character name from The Walking Dead.
