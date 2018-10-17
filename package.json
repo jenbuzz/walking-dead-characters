@@ -1,0 +1,35 @@
+{
+	"name": "walking-dead-characters",
+	"version": "1.0.0",
+    "description": "Get characters from The Walking Dead",
+    "keywords": [
+		"walking-dead",
+		"the-walking-dead",
+		"characters",
+		"character",
+		"amc",
+		"comics",
+		"word",
+		"words",
+		"list",
+		"random"
+    ],	
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jenbuzz/walking-dead-characters.git"
+    },
+    "license": "MIT",
+	"engines": {
+		"node": ">=6"
+	},
+	"files": [
+		"index.js",
+		"characters.json"
+	],
+    "scripts": {
+        "test": "jest"
+    },
+	"devDependencies": {
+		"jest": "^23.6.0"
+	}
+}
