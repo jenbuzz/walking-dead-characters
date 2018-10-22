@@ -23,5 +23,9 @@ console.log(walking_dead_characters());
 // => Rick Grimes
 ```
 
+## Related
+
+[walking-dead-characters-cli](https://github.com/jenbuzz/walking-dead-characters-cli) => Get a random character name from The Walking Dead on the command-line.
+
 ## License
 This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
