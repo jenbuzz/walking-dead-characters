@@ -1,7 +1,7 @@
 'use strict';
 
-const walking_dead_character = require('./index');
+const walkingDeadCharacters = require('./index');
 
 test('get character name', () => {
-    expect(walking_dead_character()).toBeTruthy();
+    expect(walkingDeadCharacters()).toBeTruthy();
 });

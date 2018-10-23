@@ -17,9 +17,9 @@ $ yarn add walking-dead-characters
 ## Usage
 
 ```javascript
-const walking_dead_characters = require('walking-dead-characters');
+const walkingDeadCharacters = require('walking-dead-characters');
 
-console.log(walking_dead_characters());
+console.log(walkingDeadCharacters());
 // => Rick Grimes
 ```
 

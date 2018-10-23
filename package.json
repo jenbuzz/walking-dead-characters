@@ -28,10 +28,15 @@
 	],
 	"scripts": {
 		"test": "jest",
-		"test:coverage": "jest --coverage --coverageReporters=text-lcov | coveralls"
+		"test:coverage": "jest --coverage --coverageReporters=text-lcov | coveralls",
+		"lint": "xo index.js"
 	},
 	"devDependencies": {
 		"coveralls": "^3.0.2",
-		"jest": "^23.6.0"
+		"jest": "^23.6.0",
+		"xo": "^0.23.0"
+	},
+	"xo": {
+		"space": 4
 	}
 }
