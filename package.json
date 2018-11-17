@@ -20,7 +20,7 @@
 	},
 	"license": "MIT",
 	"engines": {
-		"node": ">=6"
+		"node": ">=8"
 	},
 	"files": [
 		"index.js",
